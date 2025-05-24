@@ -23,7 +23,7 @@ An AI-powered agent built with Google ADK to validate Indian HSN (Harmonized Sys
 
 1. Clone the repository:
 ```sh
-git clone <repository-url>
+git clone https://github.com/BBB2912/HSN_agent.git
 cd HSN_agent
 ```
 
